@@ -163,7 +163,7 @@ $(document).ready(function() {
   }
 
   showProjectCards();
-  $(".copyright").append("<span>© " + year + " Bruce Young. All rights reserved</span>");
+  $(".copyright").append("<span>© " + year + " Kiran Shuaib. All rights reserved</span>");
 
   // turn on bootstrap tooltips
   $('[data-toggle="tooltip"]').tooltip();
