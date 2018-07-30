@@ -139,7 +139,7 @@ body {
 #contact {
   width: 100vw;
   height: 100vh;
-  background-image: url(https://cdn.pixabay.com/photo/2018/04/19/08/01/body-of-water-3332522_960_720.jpg);
+  background-image: url("./images/contacts.png");
   background-color: black;
   background-repeat: no-repeat;
   background-position: center center;
