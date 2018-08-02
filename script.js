@@ -28,11 +28,11 @@ $(document).ready(function() {
 	// data for the portfolio cards front and back
 	var projectData = [
 		{
-			title: 'Indecision App',
+			title: 'Momentum Clone',
 			text:
-				'<p>A React JS project,  The user can enter options to decide between them. An app will randomly decide for the user which option to choose</p> <strong>Code:</strong> React, Sass, babel<br> <strong>Layout:</strong> Bootstrap.',
-			image: ['./images/IndecisionApp.png'],
-			site: [['Live Site', 'fa-link', 'http://kiran.shuaib.ca/IndecisionApp']],
+				'<p>A React JS project, It is the clone of the Momentum Google Chrome Extension. The extension is a home page replacement on the Chrome browser. It can be accessed by opening a new window or tab. </p> <strong>Code:</strong> ReactJS babel<br> <strong>Features:</strong>Time, Greetings with name, local weather.', 
+				image: ['./images/momentum.png'],
+			site: [['Live Site', 'fa-link', 'https://chingu-voyage5.github.io/Geckos-Team-0/']],
 		},
 		{
 			title: 'Mark Down Previewer',
