@@ -30,7 +30,7 @@ $(document).ready(function() {
 		{
 			title: 'Momentum Clone',
 			text:
-				'<p>A React JS project, It is the clone of the Momentum Google Chrome Extension. The extension is a home page replacement on the Chrome browser. It can be accessed by opening a new window or tab. </p> <strong>Code:</strong> ReactJS babel<br> <strong>Features:</strong>local Time, Greetings with name, local weather, Todo, links for bookmarking,Randomized quotes, Randomized wallpaper', 
+				'<p>A React JS project, It is the clone of the Momentum Google Chrome Extension. The extension is a home page replacement on the Chrome browser. It can be accessed by opening a new window or tab. </p> <strong>Code:</strong> ReactJS CSS<br> <strong>Features:</strong>local Time, Greetings with name, local weather, Todo, links for bookmarking, Randomized quotes, Randomized wallpaper', 
 				image: ['./images/momentum.png'],
 			site: [['Live Site', 'fa-link', 'https://chingu-voyage5.github.io/Geckos-Team-0/']],
 		},
@@ -75,6 +75,13 @@ $(document).ready(function() {
 				'<p>A FreeCodeCamp project, <a href="https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game" target="_blank"><i>Build a Tic Tac Toe Game</i></a>. The user can play a game of Tic Tac Toe with the computer.</p> <strong>Code:</strong> HTML5, CSS3, Javascript, jQuery',
 			image: ['./images/TicTacToe.png'],
 			site: [['CodePen', 'fa-codepen', 'https://codepen.io/kiranshuaib/full/gvRxgv/']],
+		},
+		{
+			title: 'IACC IBA Alumni',
+			text:
+				'<p>Content management Website , it is IBA official website build in Wordpress. IACC is a fully responsive and dynamic webpage build in keeping in mind the SEO and mobile first approach.</br><strong>Code:</strong></br> CMS : Wordpress</br> Backend: mySql & php',
+			image: ['./images/IACC.png'],
+			site: [['Live Site', 'fa-link', 'http://ibaalumni.ca/toronto/']],
 		},
 	];
 
