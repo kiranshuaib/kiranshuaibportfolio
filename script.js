@@ -30,7 +30,7 @@ $(document).ready(function() {
 		{
 			title: 'Momentum Clone',
 			text:
-				'<p>A React JS project, It is the clone of the Momentum Google Chrome Extension. The extension is a home page replacement on the Chrome browser. It can be accessed by opening a new window or tab. </p> <strong>Code:</strong> ReactJS babel<br> <strong>Features:</strong>Time, Greetings with name, local weather.', 
+				'<p>A React JS project, It is the clone of the Momentum Google Chrome Extension. The extension is a home page replacement on the Chrome browser. It can be accessed by opening a new window or tab. </p> <strong>Code:</strong> ReactJS babel<br> <strong>Features:</strong>local Time, Greetings with name, local weather, Todo, links for bookmarking,Randomized quotes, Randomized wallpaper', 
 				image: ['./images/momentum.png'],
 			site: [['Live Site', 'fa-link', 'https://chingu-voyage5.github.io/Geckos-Team-0/']],
 		},
